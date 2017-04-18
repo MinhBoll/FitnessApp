@@ -1,0 +1,3 @@
+bobby|pass|boy|kg|80.0|
+akleyer|pass|boy|kg|180.0|
+bobby1|pass|boy|kg|180.0|
